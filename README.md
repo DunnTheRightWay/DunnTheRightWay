@@ -12,14 +12,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ashleydunnaway.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ashleydunnaway.com#gh-dark-mode-only)
+[![website](globe-light.svg)](https://ashleydunnaway.com#gh-light-mode-only)
+[![website](globe-dark.svg)](https://ashleydunnaway.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/DunnTheRightWay#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/DunnTheRightWay#gh-dark-mode-only)
+[![website](twitter-light.svg)](https://twitter.com/DunnTheRightWay#gh-light-mode-only)
+[![website](twitter-dark.svg)](https://twitter.com/DunnTheRightWay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashley-dunnaway#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashley-dunnaway#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://linkedin.com/in/ashley-dunnaway#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/ashley-dunnaway#gh-dark-mode-only)
 
 ### Languages and Tools:
 

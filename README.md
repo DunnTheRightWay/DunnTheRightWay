@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning MERN stack
 - 👩‍💻 I’m looking to collaborate with other software engineers
-- 🥅 Goals: Contribute more to open source projects in 2022
+- 🥅 Goals: Become a software engineer in 2022
 - 🙂 Fun fact: I was in a TV commercial as a child
 
 ### Connect with me:

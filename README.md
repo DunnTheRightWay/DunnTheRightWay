@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer based in the Washington, D.C. Metropolitan region!
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently focusing on fullstack JavaScript
 - 👩‍💻 I’m looking to collaborate with other software engineers
 - 🥅 Goals: Become a software engineer in 2022
 - 🙂 Fun fact: I was in a TV commercial as a child

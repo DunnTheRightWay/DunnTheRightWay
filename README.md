@@ -5,9 +5,9 @@
 
 ## I'm a Software Engineer based in the Washington, D.C. Metropolitan region!
 
+- 💻 I am a software engineer at 100Devs
 - 🌱 I’m currently focusing on fullstack JavaScript
 - 👩‍💻 I’m looking to collaborate with other software engineers
-- 💻 I am a software engineer at 100Devs
 
 
 ### Connect with me:

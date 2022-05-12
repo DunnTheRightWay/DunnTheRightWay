@@ -9,7 +9,7 @@
 
 - 🤝 Open to: **freelance clients**
 
-- 👩‍💻 Visit my portfolio here: [https://www.ashleydunnaway.com](https://www.ashleydunnaway.com)
+- 👩‍💻 Visit my portfolio here: [www.ashleydunnaway.com](https://www.ashleydunnaway.com)
 
 - 📫 How to reach me: adunnaway93@gmail.com
 

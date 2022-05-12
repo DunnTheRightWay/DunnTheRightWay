@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="githubHeader.png" alt="Ashley Dunnaway" style="width: 100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
 <h3 align="center">I'm a software engineer and educator interested in merging my skills to ignite a spark in the tech space!</h3>
 

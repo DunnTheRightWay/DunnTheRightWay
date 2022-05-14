@@ -76,16 +76,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-blueviolet?style=plastic&logo=VisualStudio" height=25>
 </p>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunntherightway&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&bg_color=FFFFFF00" alt="dunntherightway">
-</td>
-</table>
-</div>
-
-
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/dunntherightway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dunntherightway" height="30" width="40" /></a>

@@ -1,17 +1,26 @@
 <div align="center">
   <img src="githubHeader.png" alt="Ashley Dunnaway" style="width: 100%" />
 </div>
+<br>
 
-<h1 align="center">Hello! I'm Ashley! </h1>
-<h3 align="center">I'm a full-stack software engineer and educator interested in merging my skills to ignite a spark in the tech space!  I am currently open to any new clients or opportunities.  Please feel free to contact me via email or LinkedIn. </h3>
-
-- 🌱 I’m currently learning: **JavaScript**
-
-- 🤝 Open to: **freelance clients**
-
-- 👩‍💻 Visit my portfolio here: [www.ashleydunnaway.com](https://www.ashleydunnaway.com)
-
-- 📫 How to reach me: adunnaway93@gmail.com
+<p align="center">
+<a href="https://ashleydunnaway.com" target="_blank">
+<img src="https://img.shields.io/badge/Personal_Portfolio-blueviolet??style=plastic"/>
+</a>
+<a href="https://ashleydunnaway.com" target="_blank">
+<img src="https://img.shields.io/badge/CodeWars-blueviolet??style=plastic&logo=codewars"/>
+</a>
+<a href="https://twitter.com/dunntherightway" target="_blank">
+<img src="https://img.shields.io/badge/@DunnTheRightWay-blueviolet??style=plastic&logo=twitter"/>
+</a>
+<a href="https://linkedin.com/in/ashley-dunnaway" target="_blank">
+<img src="https://img.shields.io/badge/Ashley_Dunnaway-blueviolet??style=plastic&logo=linkedin"/>
+</a>
+<a href="mailto:adunnaway93@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Adunnaway93@gmail.com-blueviolet??style=plastic"/>
+</a>
+</p>
+<p align="center">Hello! I'm Ashley! I'm a full-stack software engineer and educator interested in merging my skills to ignite a spark in the tech space!  I am currently open to any new clients or opportunities.  Please feel free to contact me via email or LinkedIn. </p>
 
 <h2 align="center">Projects </h2>
 <div align="center">
@@ -74,10 +83,4 @@
 <img src="https://img.shields.io/badge/React-blueviolet?style=plastic&logo=React" height=25>
 <img src="https://img.shields.io/badge/Node.js-blueviolet?style=plastic&logo=Node.js" height=25>
 <img src="https://img.shields.io/badge/Visual_Studio-blueviolet?style=plastic&logo=VisualStudio" height=25>
-</p>
-
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/dunntherightway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dunntherightway" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashley-dunnaway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashleydunnaway" height="30" width="40" /></a>
 </p>

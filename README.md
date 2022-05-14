@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dunntherightway&theme=midnight-purple&background=FFFFFF00&hide_border=true" alt="dunntherightway">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dunntherightway&theme=shades-of-purple&background=FFFFFF00&hide_border=true" alt="dunntherightway">
 </td>
 <td width="50%">
- <img src="https://github-readme-stats.vercel.app/api?username=dunntherightway&bg_color=FFFFFF00&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=dunntherightway&bg_color=FFFFFF00&theme=shades-of-purple&include_all_commits=true&count_private=true&hide_border=true">
 </table>
 </div>
 

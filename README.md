@@ -13,6 +13,46 @@
 
 - 📫 How to reach me: adunnaway93@gmail.com
 
+<h2 align="center">Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Personal Portfolio</h3>
+<div align="center" >  
+<a href='https://ashleydunnaway.com'>
+<img src="https://github.com/DunnTheRightWay/DunnTheRightWay/blob/main/portfolio.gif?raw=true" alt="" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://ashleydunnaway.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - My portfolio website to showcase my projects. Open to freelance clients as well!</p>
+</div>  
+  
+<td width="50%">
+<h3 align="center" color="white">API Artist Biography Search</h3>
+<div align="center" >  
+<a href='https://artistbiosearch.netlify.app/'>
+<img src="https://github.com/DunnTheRightWay/artistbiosearchapp/blob/master/artistsearch.gif?raw=true" alt="" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/DunnTheRightWay/artistbiosearchapp" target="_blank">
+<img src="https://img.shields.io/badge/Code-blueviolet??style=plastic&logo=github"/>
+</a>  
+<a href="https://artistbiosearch.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - View artist's biography by searching the artist's name. Data rendered by TheAudioDB API.</p>
+</div>
+</table>
+
 <div align="center">
 <table>
 <tr>

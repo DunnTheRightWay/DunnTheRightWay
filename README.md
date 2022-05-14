@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello! I'm Ashley! </h1>
-<h3 align="center">I'm a full-stack software engineer and educator interested in merging my skills to ignite a spark in the tech space!  I am currently open to any new clients or opportunities. Please feel free to contact me via email or LinkedIn. </h3>
+<h3 align="center">I'm a full-stack software engineer and educator interested in merging my skills to ignite a spark in the tech space!  I am currently open to any new clients or opportunities.  Please feel free to contact me via email or LinkedIn. </h3>
 
 - 🌱 I’m currently learning: **JavaScript**
 

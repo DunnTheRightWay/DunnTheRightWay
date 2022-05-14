@@ -39,7 +39,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunntherightway&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&bg_color=FFFFFF00" alt="dunntherightway">
 </table>
 </div>

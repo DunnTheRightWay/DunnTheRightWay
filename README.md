@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - My portfolio website to showcase my projects. Open to freelance clients as well!</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - My portfolio website to showcase my projects and contact information. Open to freelance clients!</p>
 </div>  
   
 <td width="50%">

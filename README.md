@@ -7,7 +7,7 @@
 <a href="https://ashleydunnaway.com" target="_blank">
 <img src="https://img.shields.io/badge/Personal_Portfolio-blueviolet??style=plastic"/>
 </a>
-<a href="https://ashleydunnaway.com" target="_blank">
+<a href="https://www.codewars.com/users/DunnTheRightWay" target="_blank">
 <img src="https://img.shields.io/badge/CodeWars-blueviolet??style=plastic&logo=codewars"/>
 </a>
 <a href="https://twitter.com/dunntherightway" target="_blank">

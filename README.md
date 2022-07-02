@@ -61,6 +61,16 @@
 <p><strong>JavaScript, CSS3, HTML5</strong> - View artist's biography by searching the artist's name. Data rendered by TheAudioDB API.</p>
 </div>
 </table>
+  <div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DunnTheRightWay&theme=shades-of-purple&hide_border=true&background=FFFFFF00" alt="dunntherightway streak stats">
+</td>
+<td width="50%">
+ <img src="https://github-readme-stats.vercel.app/api?username=dunntherightway&bg_color=FFFFFF00&theme=shades-of-purple&include_all_commits=true&count_private=true&hide_border=true">
+</table>
+</div>
 
 
 ## Language and Tools:

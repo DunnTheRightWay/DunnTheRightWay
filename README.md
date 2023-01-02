@@ -4,63 +4,17 @@
 <br>
 
 <p align="center">
-<a href="https://ashleydunnaway.com" target="_blank">
-<img src="https://img.shields.io/badge/Personal_Portfolio-blueviolet??style=plastic"/>
-</a>
+
 <a href="https://www.codewars.com/users/DunnTheRightWay" target="_blank">
 <img src="https://img.shields.io/badge/CodeWars-blueviolet??style=plastic&logo=codewars"/>
 </a>
 <a href="https://twitter.com/dunntherightway" target="_blank">
 <img src="https://img.shields.io/badge/@DunnTheRightWay-blueviolet??style=plastic&logo=twitter"/>
 </a>
-<a href="https://linkedin.com/in/ashley-dunnaway" target="_blank">
-<img src="https://img.shields.io/badge/Ashley_Dunnaway-blueviolet??style=plastic&logo=linkedin"/>
-</a>
-<a href="mailto:adunnaway93@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Adunnaway93@gmail.com-blueviolet??style=plastic"/>
-</a>
-</p>
-<p align="center">Hello! I'm Ashley! I'm a full-stack software engineer and educator interested in merging my skills to ignite a spark in the tech space!  I am currently open to any new clients or opportunities.  Please feel free to contact me via email or LinkedIn. </p>
-
-<h2 align="center">Projects </h2>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center" color="white">Personal Portfolio</h3>
-<div align="center" >  
-<a href='https://ashleydunnaway.com'>
-<img src="https://github.com/DunnTheRightWay/DunnTheRightWay/blob/main/portfolio.gif?raw=true" alt="Personal Portfolio" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://ashleydunnaway.com" target="_blank">
-<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - My portfolio website to showcase my projects and contact information. Open to freelance clients!</p>
-</div>  
   
-<td width="50%">
-<h3 align="center" color="white">API Artist Biography Search</h3>
-<div align="center" >  
-<a href='https://artistbiosearch.netlify.app/'>
-<img src="https://github.com/DunnTheRightWay/artistbiosearchapp/blob/master/artistsearch.gif?raw=true" alt="Artist Biography Search App" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/DunnTheRightWay/artistbiosearchapp" target="_blank">
-<img src="https://img.shields.io/badge/Code-blueviolet??style=plastic&logo=github"/>
-</a>  
-<a href="https://artistbiosearch.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
-</a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - View artist's biography by searching the artist's name. Data rendered by TheAudioDB API.</p>
-</div>
-</table>
+<p align="center">Hello! I'm Ashley! </p>
+
   <div align="center">
 <table>
 <tr>
